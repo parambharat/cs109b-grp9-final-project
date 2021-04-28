@@ -111,6 +111,8 @@ dependencies:
   - nbconvert=6.0.7=py38h50d1736_3
   - nbformat=5.1.3=pyhd8ed1ab_0
   - ncurses=6.2=h2e338ed_4
+  - neobolt=1.7.17=py38h5406a74_2
+  - neotime=1.7.4=py_0
   - nest-asyncio=1.5.1=pyhd8ed1ab_0
   - notebook=6.3.0=pyha770c72_1
   - nspr=4.30=hcd9eead_0
@@ -138,6 +140,7 @@ dependencies:
   - prompt_toolkit=3.0.18=hd8ed1ab_0
   - protobuf=3.15.8=py38ha048514_0
   - ptyprocess=0.7.0=pyhd3deb0d_0
+  - py2neo=4.2.0=py_1
   - pyasn1=0.4.8=py_0
   - pyasn1-modules=0.2.7=py_0
   - pycparser=2.20=pyh9f0ad1d_2
